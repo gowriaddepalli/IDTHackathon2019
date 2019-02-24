@@ -1,0 +1,1 @@
+This is a folder for our project in the hackathon containing supporting code.
