@@ -11,15 +11,14 @@ Things move fast in the world of business.  Many phone calls and meetings take p
 3. Multiple Language Detection and Transalation
 4. Extractive Text Summarisation Ensembling using NLP PageRank and Sentence Embeddings.
 5. Meeting/ Phone Analytics.
+6. Minutes of meeting send using EMAIL to the participants.
 
 ## Technologies:
 1. Web APP - HTML, CSS, JS, Flask, Python
-2. Voice -> Text/Multiple Speaker Detection  - IBM Watson Speech - text -API
-3. Multiple Language Detection and translation
+2. Voice -> Text/Multiple Speaker Detection  - IBM Watson Speech - text -API, REST
+3. Multiple Language Detection and translation - Google Translate
 4. Extractive Text Summarisation Ensembling using NLP PageRank and Sentence Embeddings - Numpy, NetworkX, Theano(Unsupervised ML), NLTK
-5. Meeting Analytics - Pandas, d3, Gensim, wordcloud
-
-
+5. Meeting Analytics - Pandas, d3, Gensim, wordcloud, spacy, Topic Modelling using LDA.
 
 
 ## Team Members:
