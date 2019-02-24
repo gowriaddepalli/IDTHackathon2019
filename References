@@ -1,0 +1,32 @@
+References:
+
+Link to download Youtube video:
+https://www.genyoutube.net/ 
+
+Free software to convert mp4 to wav: 
+https://www.nch.com.au/wavepad/index.html
+
+
+Text -> Summary:
+==============================
+https://www.summarizebot.com/faq.html
+https://cloud.google.com/natural-language/
+https://www.meaningcloud.com/developer/
+
+
+Speech -> Text:
+=================================
+https://cloud.google.com/speech-to-text/
+https://cloud.google.com/speech-to-text/docs/
+
+Python sample for IBM Speech to Text: https://github.com/watson-developer-cloud/python-sdk/blob/master/examples/speech_to_text_v1.py 
+
+
+Python implementation of several APIs: https://realpython.com/python-speech-recognition/ 
+
+
+https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1
+https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70
+https://nlpforhackers.io/textrank-text-summarization/
+https://medium.com/@shivangisareen/text-summarisation-with-gensim-textrank-46bbb3401289
+
